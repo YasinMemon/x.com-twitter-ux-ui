@@ -1,0 +1,8 @@
+.lis:hover{
+    background-color: #161515;
+    cursor: pointer;
+    border: none;
+    border-radius: 1rem;
+    width: fit-content;
+    height: fit-content;
+}
